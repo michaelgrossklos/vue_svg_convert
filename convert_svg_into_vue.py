@@ -36,6 +36,7 @@ for dir_path, dir_names, file_names in os.walk(f):
     xmlns="http://www.w3.org/2000/svg"
     xml:space="preserve"
     style="fill-rule: evenodd; clip-rule: evenodd; stroke-linejoin: round; stroke-miterlimit: 2"
+    transform="matrix(-2.5 0 0 2.5 100 0)"
   >
     {path_tag[0]}
   </svg>
